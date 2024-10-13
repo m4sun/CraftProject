@@ -1,0 +1,3 @@
+# Dependencies the project needs to run, which can be installed using pip install -r requirements.txt
+
+pytest
